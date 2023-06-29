@@ -11,7 +11,7 @@ Date: May, 2023
 
 status: finished
 
-Group:
+Team members:
 
 Reza Charrakh: https://github.com/RezaCharrakh
 
