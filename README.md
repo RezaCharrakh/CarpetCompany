@@ -11,7 +11,7 @@ Date: May, 2023
 
 status: finished
 
-Group{
+Group[
 Reza Charrakh: https://github.com/RezaCharrakh
 Farnaz Movahedi : https://github.com/farnazzzmovahedi
-}
+]
